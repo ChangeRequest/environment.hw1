@@ -1,4 +1,4 @@
-Homework 0 task
+Home work 0 task
 ===============
 1\. Create your first GIT repository and share it on GitHub.
 ---------------
