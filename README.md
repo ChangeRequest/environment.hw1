@@ -22,4 +22,4 @@ Name Surname: URL
 [1]: https://opensource.org/licenses/Apache-2.0
 [2]: https://opensource.org/licenses/MIT
 [3]: https://github.com/ChangeRequest/hw0
-[4]: ../blob/master/students
+[4]: students
