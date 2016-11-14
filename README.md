@@ -7,7 +7,7 @@ Create new repository, that should contain following files:
 * LICENSE - license file ([Apache][1] or [MIT][2])
 * java.version - file, that contains output of `java -version` command.
 * IDE.png - screenshot of your configured IDE (eclipse or IDEA).
-* git.config - file, that contains output of `git config -list` command.
+* git.config - file, that contains output of `git config --list` command.
 
 2\. Create your first pull-request
 --------------
