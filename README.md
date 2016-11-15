@@ -1,5 +1,7 @@
 Environment. Home Work 1
 ===============
+
+[![Join the chat at https://gitter.im/changerequest/environment.hw1](https://badges.gitter.im/changerequest/environment.hw1.svg)](https://gitter.im/changerequest/environment.hw1?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 1\. Create your first GIT repository and share it on GitHub.
 ---------------
 Create new repository, that should contain following files:
