@@ -1,5 +1,7 @@
 Environment. Home Work 1
 ===============
+
+[![Join the chat at https://gitter.im/changerequest/environment.hw1](https://badges.gitter.im/changerequest/environment.hw1.svg)](https://gitter.im/changerequest/environment.hw1?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 1\. Create your first GIT repository and share it on GitHub.
 ---------------
 Create new repository, that should contain following files:
@@ -7,7 +9,7 @@ Create new repository, that should contain following files:
 * LICENSE - license file ([Apache][1] or [MIT][2])
 * java.version - file, that contains output of `java -version` command.
 * IDE.png - screenshot of your configured IDE (eclipse or IDEA).
-* git.config - file, that contains output of `git config -list` command.
+* git.config - file, that contains output of `git config --list` command.
 
 2\. Create your first pull-request
 --------------
